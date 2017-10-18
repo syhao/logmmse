@@ -1,5 +1,5 @@
 # logmmse
-fdafsa
+convert the matlib program to python implement
 speech enhancement fix a slice of silent speech exception
 A python implementation of the LogMMSE speech enhancement/noise reduction alogrithm. This file has been ported from logmmse.m file found at the following link.
 
